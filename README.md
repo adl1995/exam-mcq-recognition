@@ -15,6 +15,7 @@ Marking of a question paper is a tedious task. It involves 3 major steps,
  -  Read student's answer
  -  Match the answer with the provided solution sheet
  - Mark question as right or wrong
+
 Methodology
 -
 - Apply a gaussian blur to image containing all questions
@@ -32,7 +33,7 @@ Results
 -
 The steps followed were very robust, but there were some mismatches during hough transform application. In this particular case, there was 1 MCQ that was incorrectly matched. Therefore the accuracy for all four papers (present in repository) is 93%. Letter recognition was very robust. 14/15 letters were correctly identified.
 
-![alu]()
+![result]()
 
 Third party code
 -	
