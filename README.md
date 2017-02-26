@@ -33,7 +33,7 @@ Results
 -
 The steps followed were very robust, but there were some mismatches during hough transform application. In this particular case, there was 1 MCQ that was incorrectly matched. Therefore the accuracy for all four papers (present in repository) is 93%. Letter recognition was very robust. 14/15 letters were correctly identified.
 
-![result]()
+![result](https://github.com/adl1995/exam-mcq-recognition/blob/master/result.png)
 
 Third party code
 -	
