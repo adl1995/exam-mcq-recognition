@@ -1,4 +1,4 @@
-Multiple Choice Questions detecor
+Multiple Choice Questions detector
 ===================
 
 
